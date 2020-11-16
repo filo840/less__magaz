@@ -1,0 +1,3 @@
+D:\studi1\start_gulp
+cd D:\studi1\start_gulp
+ D:
